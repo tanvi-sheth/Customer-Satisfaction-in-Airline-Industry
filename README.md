@@ -20,15 +20,23 @@ Our approach involves leveraging machine learning techniques, with a focus on cl
 ## Goal of the project
 
 With this analysis, we aim to answer the following questions:
+
 • Which flight components had the most influence on customer satisfaction?
+
 • Which features an airline can consider inconsequential?
+
 • What are the most optimum feature values to ensure a customer is satisfied?
+
 • Make recommendations for airlines to improve features that have the most impact on customer satisfaction.
 
 ## Conclusion
 
 • Looking at the model performance, we can confidently say that this is one of the best models to predict Customer Satisfaction.
+
 • Based on the Confusion Matrix, we see that out of the 32,470 customers in our test set, exactly 45% of the customers are dissatisfied with their Airline experience.
+
 • As consultants to the Airline, we have managed to identify the top areas and features that most deeply affect a passenger’s satisfaction or the lack thereof. Our advice to the airline would be to initially focus on improving these select 13 features in order to improve overall satisfaction.
+
 • We mentioned earlier that Satisfaction is a fairly subjective experience and we stand by it. However, we also acknowledge that some aspects that lead to satisfaction are in control of the airline. By working on the select features, Investico Airlines has a greater chance of improving customer experiences, thus leading to better recall and loyalty.
+
 • Customer service is an ongoing process which always has room for improvement. The features highlighted in this project are important to customer satisfaction as of now, but might change and in order to stay relevant, the airline must conduct such surveys and gather data about their customer’s experiences in order to keep providing exceptional service and improving their service levels.

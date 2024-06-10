@@ -1,5 +1,5 @@
 # Customer-Satisfaction-in-Airline-Industry
-Prediction of satisfaction or dissatisfaction for Invistico Airlines
+Prediction of Satisfaction or Dissatisfaction for Invistico Airlines
 
 Collaborators: Aryan Kumar, Sneha Ekka, Tanvi Sheth, Yifan (Eric) Bai
 
